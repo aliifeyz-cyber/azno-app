@@ -1,0 +1,6 @@
+{
+  "name": "ازنو (Azno) - پلتفرم عادت‌سازی و مربی هوش مصنوعی",
+  "description": "اپلیکیشن ساخت و ترک عادات با قدم‌های کوچک، مربی هوش مصنوعی، چکین روزانه و کامیونیتی با فلاتر و سوپابیس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
